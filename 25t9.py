@@ -1,0 +1,13 @@
+curret_year=2023
+print("ten cua b la :")
+yourname=input()
+print("ho cua ban la")
+fullname=input()
+print("ten day du la "+fullname+" " + yourname)
+print("nam sinh")
+birdday=int(input())
+print("thang sinh")
+birdmount=input()
+print(str(birdday)+"/"+str(birdmount))
+age=int(curret_year-birdday)
+print(age)

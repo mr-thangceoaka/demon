@@ -1,0 +1,1 @@
+pygame.draw.rect( screen,blue,(BIRD_X,bird_y,BIRD_WIDH,BIRD_HIGH))
